@@ -314,7 +314,7 @@ address a {
 #header-search #search-q {
     background-color: rgba(0,0,0,0.03);
     border: 1px solid rgba(0,0,0,0.1);
-    border-radius: 21px;
+    border-radius: 3px;
     box-sizing: border-box;
     color: rgba(0,0,0,0.8);
     display: block;
@@ -453,7 +453,7 @@ body#doc #content_inner p.faq-credits {
     line-height: 1em;
     background: linear-gradient(to bottom, rgba(255, 255, 255, 1) 0%, rgba(221, 221, 221, 1) 100%) repeat-x scroll 0 0 rgba(0, 0, 0, 0);
     border: 1px solid #cccccc;
-    border-radius: 4px;
+    border-radius: 3px;
     color: rgba(0,0,0,0.8);
     padding: 5px 10px;
     cursor: pointer;
@@ -475,12 +475,12 @@ body#doc #content_inner p.faq-credits {
 }
 
 #input_form_nav li:hover a {
-    background: -moz-linear-gradient(top,  #399FC3 0%, #d44652 100%); /* FF3.6+ */
-    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#399FC3), color-stop(100%,#d44652)); /* Chrome,Safari4+ */
-    background: -webkit-linear-gradient(top,  #399FC3 0%,#d44652 100%); /* Chrome10+,Safari5.1+ */
-    background: -o-linear-gradient(top,  #399FC3 0%,#d44652 100%); /* Opera 11.10+ */
-    background: -ms-linear-gradient(top,  #399FC3 0%,#d44652 100%); /* IE10+ */
-    background: linear-gradient(to bottom,  #399FC3 0%,#d44652 100%); /* W3C */
+    background: -moz-linear-gradient(top,  #399FC3 0%, #41A1D4 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#399FC3), color-stop(100%,#41A1D4)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #399FC3 0%,#41A1D4 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #399FC3 0%,#41A1D4 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #399FC3 0%,#41A1D4 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #399FC3 0%,#41A1D4 100%); /* W3C */
     background-repeat: repeat-x;
     text-shadow: rgba(0, 0, 0, 0.25) 0px -1px 1px;
     border-color:#399FC3;
@@ -1694,12 +1694,12 @@ border: 1px solid rgba(0, 0, 0, 0.3);
 .entity_tag .dialogbox input.submit_dialogbox:hover,
 .form_repeat.dialogbox input.submit_dialogbox:hover
 {
-    background: -moz-linear-gradient(top,  #399FC3 0%, #d44652 100%); /* FF3.6+ */
-    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#399FC3), color-stop(100%,#d44652)); /* Chrome,Safari4+ */
-    background: -webkit-linear-gradient(top,  #399FC3 0%,#d44652 100%); /* Chrome10+,Safari5.1+ */
-    background: -o-linear-gradient(top,  #399FC3 0%,#d44652 100%); /* Opera 11.10+ */
-    background: -ms-linear-gradient(top,  #399FC3 0%,#d44652 100%); /* IE10+ */
-    background: linear-gradient(to bottom,  #399FC3 0%,#d44652 100%); /* W3C */
+    background: -moz-linear-gradient(top,  #399FC3 0%, #41A1D4 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#399FC3), color-stop(100%,#41A1D4)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #399FC3 0%,#41A1D4 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #399FC3 0%,#41A1D4 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #399FC3 0%,#41A1D4 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #399FC3 0%,#41A1D4 100%); /* W3C */
     background-repeat: repeat-x;
     border-color:#399FC3;
     color:#fff;
