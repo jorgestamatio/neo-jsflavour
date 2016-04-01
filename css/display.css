@@ -1258,18 +1258,19 @@ body#outbox #core ul.messages .notice:before {
 #content #notices_primary > .notices > .infscr-pages > .notice,
 #content #notices_primary > .notices > .notice {
     border-color: #e5e6e9 #dfe0e4 #d0d1d5;
+    border: none;
+    border-bottom: 1px solid #ddd;
     border-image: none;
-    border-radius: 3px;
+    border-radius: 0px;
     border-style: solid;
     border-width: 1px;
     width:518px;
     background-color:#fff;
-    padding:12px;
-    padding-bottom:0;
+    padding:15px;
 }
 
 #content .notice {
-    padding-bottom: 4px;
+    padding-bottom: 15px;
 }
 
 .notice div.entry-content {
